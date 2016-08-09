@@ -78,7 +78,6 @@ div_Step_2_Microinjection_br__1.html
 div_Injections_were_performed_using__1.html
 div_Step_3_Aggregation_of__1.html
 div_By_applying_a_strong__1.html
-div_nbsp_br_div__78.html
 div_Step_4a_Embedding_of__1.html
 div_The_zebrafish_embryo_in__1.html
 div_nbsp_br_div__79.html
