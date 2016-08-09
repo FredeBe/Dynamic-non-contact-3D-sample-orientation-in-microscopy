@@ -1,7 +1,7 @@
 h1_Abstract_i_unreferenced_abstract__.html
 div_In_vivo_imaging_of__.html
 h1_Main_text_br_h1__.html
-div_i_Need_to_image__.html
+Need_to_image_sample_from__.html
 Inhomogeneous_samples_have_an_optimal__.html
 div_i_nbsp_i_br__.html
 div_i_Define_explicitly_what__.html
