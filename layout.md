@@ -100,7 +100,6 @@ div_nbsp_br_div__5.html
 div_i_Find_the_right__.html
 div_nbsp_br_div__6.html
 div_i_Injection_of_beads__.html
-div_Injected_embryos_were_monitored__.html
 div_nbsp_br_div__7.html
 div_b_nbsp_b_br__1.html
 div_b_nbsp_b_br__2.html
