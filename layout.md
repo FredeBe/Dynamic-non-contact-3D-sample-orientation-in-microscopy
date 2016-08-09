@@ -113,7 +113,6 @@ div_i_Introduce_the_magnetic__.html
 div_To_orient_the_sample__.html
 div_nbsp_br_div__8.html
 div_i_Performance_of_the__.html
-div_We_measured_the_performance__.html
 div_nbsp_br_div__9.html
 div_i_Intermediate_angles_i__.html
 div_To_study_the_sample__.html
