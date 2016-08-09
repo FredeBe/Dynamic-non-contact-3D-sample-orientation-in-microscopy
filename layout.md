@@ -92,6 +92,7 @@ div_nbsp_br_div__66.html
 h1_Materials_and_Methods_br__1.html
 div_b_nbsp_b_br__10.html
 h2_SPIM_setup_br_h2__1.html
+div_SPIM_setup_consisted_of__1.html
 div_Frederic_Berndt_sup_1__.html
 div_nbsp_br_div__.html
 div_b_sup_1_sup__.html
