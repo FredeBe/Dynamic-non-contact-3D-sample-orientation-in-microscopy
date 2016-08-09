@@ -29,7 +29,7 @@ div_Injected_embryos_were_monitored__1.html
 div_i_Magnets_i_br__1.html
 The_external_magnetic_field_can__.html
 div_i_Why_do_we__1.html
-div_SPIM_has_become_the__1.html
+SPIM_has_become_the_technique__.html
 div_i_Introduce_the_magnetic__1.html
 div_To_orient_the_sample__1.html
 div_i_Performance_of_the__1.html
