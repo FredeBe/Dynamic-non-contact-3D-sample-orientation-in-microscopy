@@ -1,4 +1,3 @@
-Inhomogeneous_samples_have_an_optimal__.html
 div_i_nbsp_i_br__.html
 div_i_Define_explicitly_what__.html
 div_To_study_developing_organisms__.html
