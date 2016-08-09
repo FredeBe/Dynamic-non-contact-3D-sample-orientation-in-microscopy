@@ -50,7 +50,6 @@ figures/Magnetic Manipulation paper - Figures-03/Magnetic Manipulation paper - F
 h1_Discussion_br_h1__1.html
 div_In_summary_we_have__1.html
 There_are_several_applications_where__.html
-div_2_nbsp_nbsp_nbsp__1.html
 div_3_nbsp_nbsp_nbsp__1.html
 div_4_nbsp_nbsp_nbsp__1.html
 div_5_nbsp_nbsp_nbsp__1.html
