@@ -60,7 +60,6 @@ div_b_Super_paramagnetic_beads__1.html
 div_The_washed_super_paramagnetic__1.html
 div_b_Injection_needles_b__1.html
 div_The_injection_needles_were__1.html
-div_nbsp_br_div__69.html
 div_b_Magnetic_manipulator_inset__1.html
 div_nbsp_br_div__71.html
 div_b_Zebrafish_b_br__1.html
