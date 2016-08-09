@@ -106,7 +106,6 @@ div_i_Injection_of_beads__.html
 div_Injected_embryos_were_monitored__.html
 div_nbsp_br_div__7.html
 div_i_Magnets_i_br__.html
-div_The_external_magnetic_field__.html
 div_b_nbsp_b_br__1.html
 div_i_Why_do_we__.html
 div_SPIM_has_become_the__.html
