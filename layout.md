@@ -3,6 +3,7 @@ div_Frederic_Berndt_sup_1__1.html
 div_nbsp_br_div__41.html
 div_b_sup_1_sup__1.html
 div_b_sup_2_sup__1.html
+div_b_sup_sup_b__1.html
 div_Frederic_Berndt_sup_1__.html
 div_nbsp_br_div__.html
 div_b_sup_1_sup__.html
