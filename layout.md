@@ -52,7 +52,6 @@ div_In_summary_we_have__1.html
 There_are_several_applications_where__.html
 div_nbsp_br_div__62.html
 h1_Materials_and_Methods_br__1.html
-div_b_nbsp_b_br__10.html
 h2_SPIM_setup_br_h2__1.html
 div_SPIM_setup_consisted_of__1.html
 div_nbsp_br_div__67.html
