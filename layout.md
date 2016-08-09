@@ -41,7 +41,7 @@ div_i_Intermediate_angles_i__1.html
 div_To_study_the_sample__1.html
 div_i_10_different_orientations__1.html
 div_To_obtain_an_almost__1.html
-div_FUSION_br_div__1.html
+The_FUSION_is_still_missing__.html
 div_i_Limitations_of_light__1.html
 div_In_contrast_to_SPIM__1.html
 div_i_2_different_orientations__1.html
