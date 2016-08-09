@@ -49,7 +49,6 @@ div_We_used_two_electromagnets__1.html
 h1_Discussion_br_h1__1.html
 div_In_summary_we_have__1.html
 div_There_are_several_applications__1.html
-div_nbsp_br_div__56.html
 div_nbsp_br_div__57.html
 h1_References_br_h1__1.html
 div_nbsp_br_div__60.html
