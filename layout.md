@@ -105,7 +105,6 @@ div_nbsp_br_div__7.html
 div_i_Magnets_i_br__.html
 div_b_nbsp_b_br__1.html
 div_b_nbsp_b_br__2.html
-div_To_orient_the_sample__.html
 div_i_Intermediate_angles_i__.html
 div_nbsp_br_div__10.html
 div_i_10_different_orientations__.html
