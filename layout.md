@@ -174,6 +174,5 @@ h2_nbsp_br_h2__.html
 div_b_Protocol_1_Washing__.html
 div_nbsp_br_div__34.html
 div_Step_1_Washing_the__.html
-div_Take_10_l_of__.html
 div_nbsp_br_div__36.html
 div_nbsp_br_div__40.html
