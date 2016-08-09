@@ -94,7 +94,6 @@ div_While_optical_methods_have__.html
 div_nbsp_br_div__3.html
 div_i_Introduce_the_idea__.html
 div_i_nbsp_i_br__4.html
-div_i_Injection_of_magnetic__.html
 div_nbsp_br_div__4.html
 div_nbsp_br_div__5.html
 div_nbsp_br_div__6.html
