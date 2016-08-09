@@ -95,3 +95,4 @@ h2_SPIM_setup_br_h2__.html
 div_SPIM_setup_consisted_of__.html
 div_nbsp_br_div__26.html
 div_b_Electromagnets_b_br__.html
+div_The_electromagnets_were_custom__.html
