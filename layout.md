@@ -74,7 +74,6 @@ h1_Supplementary_Information_br_h1__1.html
 div_b_Protocol_1_Washing__1.html
 div_Step_1_Washing_the__1.html
 div_Take_10_l_of__1.html
-div_nbsp_br_div__76.html
 div_Step_2_Microinjection_br__1.html
 div_Injections_were_performed_using__1.html
 div_nbsp_br_div__77.html
