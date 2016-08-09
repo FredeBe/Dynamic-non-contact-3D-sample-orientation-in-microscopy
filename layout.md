@@ -183,6 +183,5 @@ div_Step_3_Aggregation_of__.html
 div_By_applying_a_strong__.html
 div_nbsp_br_div__37.html
 div_Step_4a_Embedding_of__.html
-div_The_zebrafish_embryo_in__.html
 div_nbsp_br_div__38.html
 div_nbsp_br_div__40.html
