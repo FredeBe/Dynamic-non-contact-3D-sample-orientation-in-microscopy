@@ -97,7 +97,6 @@ div_i_nbsp_i_br__4.html
 div_i_Injection_of_magnetic__.html
 div_nbsp_br_div__4.html
 div_nbsp_br_div__5.html
-div_i_Find_the_right__.html
 div_nbsp_br_div__6.html
 div_nbsp_br_div__7.html
 div_b_nbsp_b_br__1.html
