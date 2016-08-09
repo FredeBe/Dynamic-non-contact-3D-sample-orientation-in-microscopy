@@ -42,6 +42,7 @@ div_i_Magnets_i_br__1.html
 div_The_external_magnetic_field__1.html
 div_b_nbsp_b_br__8.html
 div_i_Why_do_we__1.html
+div_SPIM_has_become_the__1.html
 div_Frederic_Berndt_sup_1__.html
 div_nbsp_br_div__.html
 div_b_sup_1_sup__.html
