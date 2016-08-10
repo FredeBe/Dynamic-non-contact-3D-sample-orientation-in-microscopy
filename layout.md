@@ -19,7 +19,7 @@ We_think_that_a_positioning__.html
 div_i_Introduce_the_idea__1.html
 div_We_tried_whether_we__1.html
 div_i_Injection_of_magnetic__1.html
-div_The_super_paramagnetic_beads__1.html
+The_super_paramagnetic_beads_were__.html
 figures/Magnetic Manipulation paper - Figures-01/Magnetic Manipulation paper - Figures-01.png
 div_i_Find_the_right__1.html
 To_ensure_the_sample_integrity__.html
