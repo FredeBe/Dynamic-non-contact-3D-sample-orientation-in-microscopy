@@ -49,7 +49,7 @@ div_In_summary_we_have__1.html
 There_are_several_applications_where__.html
 h1_Materials_and_Methods_br__1.html
 h2_SPIM_setup_br_h2__1.html
-div_SPIM_setup_consisted_of__1.html
+SPIM_setup_consisted_of_an__.html
 div_b_Electromagnets_b_br__1.html
 div_The_electromagnets_were_custom__1.html
 div_b_Super_paramagnetic_beads__1.html
