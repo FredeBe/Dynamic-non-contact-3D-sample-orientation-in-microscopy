@@ -30,7 +30,7 @@ The_external_magnetic_field_can__.html
 div_i_Why_do_we__1.html
 SPIM_has_become_the_technique__.html
 div_i_Introduce_the_magnetic__1.html
-div_To_orient_the_sample__1.html
+To_orient_the_sample_in__.html
 div_i_Performance_of_the__1.html
 div_We_measured_the_performance__1.html
 div_i_Intermediate_angles_i__1.html
