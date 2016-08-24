@@ -52,7 +52,6 @@ h2_SPIM_setup_br_h2__1.html
 SPIM_setup_consisted_of_an__.html
 div_b_Electromagnets_b_br__1.html
 div_The_electromagnets_were_custom__1.html
-div_b_Super_paramagnetic_beads__1.html
 The_washed_super_paramagnetic_beads__.html
 div_b_Magnetic_manipulator_inset__1.html
 Magnetic_manipulator_inset_for_a__.html
