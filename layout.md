@@ -56,6 +56,7 @@ div_b_Super_paramagnetic_beads__1.html
 The_washed_super_paramagnetic_beads__.html
 div_b_Magnetic_manipulator_inset__1.html
 div_nbsp_br_div__71.html
+div_The_magnetic_manipulator_inset__.html
 div_b_Zebrafish_b_br__1.html
 div_nbsp_br_div__72.html
 div_b_Sample_handling_b__1.html
