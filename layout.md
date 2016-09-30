@@ -52,7 +52,7 @@ SPIM_setupSPIM_setup_consisted_of__.html
 ElectromagnetsThe_electromagnets_were_custom_built__.html
 Super_paramagnetic_beadsThe_washed_super__.html
 Magnetic_manipulator_inset_for_a__.html
-div_b_Zebrafish_b_br__1.html
+ZebrafishTO_DO_GOPI__.html
 div_nbsp_br_div__72.html
 Sample_handlingWe_oriented_the_zebrafish__.html
 div_nbsp_br_div__73.html
