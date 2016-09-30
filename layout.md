@@ -56,7 +56,7 @@ ZebrafishTO_DO_GOPI__.html
 div_nbsp_br_div__72.html
 Sample_handlingWe_oriented_the_zebrafish__.html
 div_nbsp_br_div__73.html
-Registration_of_the_SPIM_dataThe__.html
+Registration_of_the_SPIM_dataTo__.html
 h1_Funding_br_h1__1.html
 div_This_project_has_received__1.html
 div_nbsp_br_div__74.html
