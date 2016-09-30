@@ -54,7 +54,7 @@ Super_paramagnetic_beadsThe_washed_super__.html
 Magnetic_manipulator_inset_for_a__.html
 ZebrafishTO_DO_GOPI__.html
 div_nbsp_br_div__72.html
-Sample_handlingWe_oriented_the_zebrafish__.html
+Sample_handling_for_taking_multi__.html
 div_nbsp_br_div__73.html
 Registration_of_the_multi_view__.html
 h1_Funding_br_h1__1.html
