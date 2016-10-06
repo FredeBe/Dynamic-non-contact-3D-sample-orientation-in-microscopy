@@ -2,7 +2,6 @@ div_i_nbsp_i_br__.html
 Frederic_Berndt1_Gopi_Shah1_Benjamin__.html
 Abstract_unreferenced_abstract_3_sentences__.html
 Main_textNeed_to_image_sample__.html
-Injection_of_magnetic_beadsThe_super__.html
 figures/Magnetic Manipulation paper - Figures-01/Magnetic Manipulation paper - Figures-01.png
 Find_the_right_magnetic_beads__.html
 Injection_of_beads_does_not__.html
