@@ -16,7 +16,6 @@ div_nbsp_br_div__74.html
 h1_Supplementary_Information_br_h1__1.html
 figures/Fig S01 - controls_v02/Fig S01 - controls_v02-01.png
 Protocol_1_Washing_and_injection__.html
-div_Step_4a_Embedding_of__1.html
 div_The_zebrafish_embryo_in__1.html
 div_Step_4b_Embedding_of__1.html
 div_For_coating_the_inner__1.html
