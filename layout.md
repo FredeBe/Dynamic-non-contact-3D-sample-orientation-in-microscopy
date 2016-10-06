@@ -6,7 +6,6 @@ figures/Magnetic Manipulation paper - Figures-01/Magnetic Manipulation paper - F
 Find_the_right_magnetic_beads__1.html
 figures/Magnetic Manipulation paper - Figures-02/Magnetic Manipulation paper - Figures-02.png
 The_FUSION_is_still_missing__.html
-Limitations_of_light_microscope_as__.html
 div_i_2_different_orientations__1.html
 We_used_two_electromagnets_to__.html
 figures/Magnetic Manipulation paper - Figures-03/Magnetic Manipulation paper - Figures-03.png
