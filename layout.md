@@ -8,7 +8,7 @@ figures/Magnetic Manipulation paper - Figures-02/Magnetic Manipulation paper - F
 The_FUSION_is_still_missing__.html
 figures/Magnetic Manipulation paper - Figures-03/Magnetic Manipulation paper - Figures-03.png
 DiscussionIn_summary_we_have_shown__.html
-h1_Materials_and_Methods_br__1.html
+Materials_and_MethodsSPIM_setupSPIM_setup__.html
 SPIM_setupSPIM_setup_consisted_of__.html
 ElectromagnetsThe_electromagnets_were_custom_built__.html
 Super_paramagnetic_beadsThe_washed_super__.html
