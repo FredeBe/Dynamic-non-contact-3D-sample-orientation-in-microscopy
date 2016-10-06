@@ -13,7 +13,6 @@ Find_the_right_magnetic_beads__.html
 Injection_of_beads_does_not__.html
 MagnetsThe_external_magnetic_field_can__.html
 Why_do_we_need_more__.html
-div_i_Introduce_the_magnetic__1.html
 To_orient_the_sample_in__.html
 Performance_of_the_systemWe_measured__.html
 Intermediate_anglesTo_study_the_sample__.html
