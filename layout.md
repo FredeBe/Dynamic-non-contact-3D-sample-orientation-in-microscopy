@@ -10,7 +10,6 @@ figures/Magnetic Manipulation paper - Figures-03/Magnetic Manipulation paper - F
 DiscussionIn_summary_we_have_shown__.html
 Materials_and_MethodsSPIM_setupSPIM_setup__.html
 div_nbsp_br_div__72.html
-Sample_handling_for_taking_multi__.html
 div_nbsp_br_div__73.html
 Registration_of_the_multi_view__.html
 h1_Funding_br_h1__1.html
