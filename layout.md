@@ -18,7 +18,7 @@ div_i_Requirements_of_an__1.html
 We_think_that_a_positioning__.html
 div_i_Introduce_the_idea__1.html
 We_tried_whether_we_could__.html
-The_super_paramagnetic_beads_were__.html
+Injection_of_magnetic_beadsThe_super__.html
 figures/Magnetic Manipulation paper - Figures-01/Magnetic Manipulation paper - Figures-01.png
 div_i_Find_the_right__1.html
 To_ensure_the_sample_integrity__.html
