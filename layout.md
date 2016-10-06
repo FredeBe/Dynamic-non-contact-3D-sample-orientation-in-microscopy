@@ -20,7 +20,7 @@ SPIM_has_become_the_technique__.html
 div_i_Introduce_the_magnetic__1.html
 To_orient_the_sample_in__.html
 Performance_of_the_systemWe_measured__.html
-div_To_study_the_sample__1.html
+Intermediate_anglesTo_study_the_sample__.html
 div_i_10_different_orientations__1.html
 div_To_obtain_an_almost__1.html
 figures/Magnetic Manipulation paper - Figures-02/Magnetic Manipulation paper - Figures-02.png
