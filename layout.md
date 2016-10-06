@@ -9,7 +9,6 @@ The_FUSION_is_still_missing__.html
 figures/Magnetic Manipulation paper - Figures-03/Magnetic Manipulation paper - Figures-03.png
 DiscussionIn_summary_we_have_shown__.html
 Materials_and_MethodsSPIM_setupSPIM_setup__.html
-ElectromagnetsThe_electromagnets_were_custom_built__.html
 Super_paramagnetic_beadsThe_washed_super__.html
 Magnetic_manipulator_inset_for_a__.html
 ZebrafishTO_DO_GOPI__.html
