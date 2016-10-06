@@ -6,7 +6,7 @@ div_b_sup_sup_b__1.html
 h1_Abstract_i_unreferenced_abstract__1.html
 In_vivo_imaging_of_growing__.html
 h1_Main_text_br_h1__1.html
-div_Inhomogeneous_samples_have_an__1.html
+Need_to_image_sample_from__.html
 div_i_Define_explicitly_what__1.html
 div_To_study_developing_organisms__1.html
 div_i_Embedding_the_work__1.html
