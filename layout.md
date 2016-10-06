@@ -16,7 +16,6 @@ div_nbsp_br_div__74.html
 h1_Supplementary_Information_br_h1__1.html
 figures/Fig S01 - controls_v02/Fig S01 - controls_v02-01.png
 Protocol_1_Washing_and_injection__.html
-Injections_were_performed_using_a__.html
 div_Step_3_Aggregation_of__1.html
 div_By_applying_a_strong__1.html
 div_Step_4a_Embedding_of__1.html
