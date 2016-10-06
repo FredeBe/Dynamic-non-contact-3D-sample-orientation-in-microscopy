@@ -1,9 +1,131 @@
 <h1>Main text<br></h1><div><i>Need
-to image sample from a specific well-defined angle</i><br></div><div><i></i>Inhomogeneous samples have an optimal orientation when
+to image sample from a specific well-defined angle</i><br></div><div>Inhomogeneous samples have an optimal orientation when
 studied by light microscopy. For example in developmental biology highly
 scattering tissues such as pigments, the eyes or the yolk can obscure the organ
 or tissue of interest. To align the sample in its preferred orientation the
 sample is carefully embedded prior to the experiment. However, after embedding
 the sample’s orientation is fixed and cannot be adapted to the sample’s
 development during in vivo experiments or to another region of interest anymore.
-<br></div>
+<br></div><div><br></div><div><div><i>Define explicitly what the goal is
+(with respect to your sample, zebrafish).</i><br></div><div>To study developing organisms with optimal
+resolution a technique to orient the sample in the microscope in any arbitrary
+orientation without affecting the sample integrity is needed. While different
+organisms may require tailored solutions, the popular model organism zebrafish is
+transparent in the early stages making it the ideal sample for in vivo imaging.<br></div><br></div><div><i>Embedding the work in the literature</i><br></div><div>Microfluidic systems have been developed
+to align many zebrafish larvae for high-throughput applications in the
+preferred orientation <cite class="ltx_cite" data-bib-text="@article{Lin_2015,
+	doi = {10.1039/c4lc01186d},
+	url = {http://dx.doi.org/10.1039/c4lc01186d},
+	year = 2015,
+	publisher = {Royal Society of Chemistry ({RSC})},
+	volume = {15},
+	number = {3},
+	pages = {680--689},
+	author = {Xudong Lin and Shiqi Wang and Xudong Yu and Zhuguo Liu and Fei Wang and Wai Tsun Li and Shuk Han Cheng and Qiuyun Dai and Peng Shi},
+	title = {High-throughput mapping of brain-wide activity in awake and drug-responsive vertebrates},
+	journal = {Lab Chip}
+}" data-bib-key="Lin_2015" contenteditable="false"><a href="https://www.authorea.com/users/100587/articles/121901/_show_article#Lin_2015">Lin 2015</a></cite>. By embedding a zebrafish larva between
+two coverslips the sample has been studied from two sides by manually turning
+the sample <cite class="ltx_cite" data-bib-text="@article{Ronneberger_2012,
+	doi = {10.1038/nmeth.2076},
+	url = {http://dx.doi.org/10.1038/nmeth.2076},
+	year = 2012,
+	month = {jun},
+	publisher = {Nature Publishing Group},
+	volume = {9},
+	number = {7},
+	pages = {735--742},
+	author = {Olaf Ronneberger and Kun Liu and Meta Rath and Dominik Rue$\upbeta$ and Thomas Mueller and Henrik Skibbe and Benjamin Drayer and Thorsten Schmidt and Alida Filippi and Roland Nitschke and Thomas Brox and Hans Burkhardt and Wolfgang Driever},
+	title = {{ViBE}-Z: a framework for 3D virtual colocalization analysis in zebrafish larval brains},
+	journal = {Nature Methods}
+}" data-bib-key="Ronneberger_2012" contenteditable="false"><a href="https://www.authorea.com/users/100587/articles/121901/_show_article#Ronneberger_2012">Ronneberger 2012</a></cite>. While these techniques allow a precise sample
+orientation or to manually change it but they still did not allow an adaptive
+reorientation of the sample orientation essential for in vivo imaging. In light-sheet microscopy (or SPIM <cite class="ltx_cite" data-bib-text="@article{Huisken_2004,
+	doi = {10.1126/science.1100035},
+	url = {http://dx.doi.org/10.1126/science.1100035},
+	year = 2004,
+	month = {aug},
+	publisher = {American Association for the Advancement of Science ({AAAS})},
+	volume = {305},
+	number = {5686},
+	pages = {1007--1009},
+	author = {J. Huisken},
+	title = {Optical Sectioning Deep Inside Live Embryos by Selective Plane Illumination Microscopy},
+	journal = {Science}
+}" data-bib-key="Huisken_2004" contenteditable="false"><a href="https://www.authorea.com/users/100587/articles/121901/_show_article#Huisken_2004">Huisken 2004</a></cite>) the sample is rotated about one axis
+with a rotation stage. The entire sample is then reconstructed by fusing views
+from several angles. In each view the area facing the objective lens is well
+resolved. Consequently, in such a single rotational–axis system uniform
+resolution is achieved only along the equator, which faces the detection lens. Therefore
+the lateral resolution at the polar caps is no better than the axial resolution
+of the microscope (<b>Figure 2b</b>). <br></div><div><br></div><div>Here, we present a remote positioning
+technique that after the injection of magnetic beads can freely position the
+sample by applying a magnetic field and show its excellent performance for a zebrafish
+larva on a commercial stereoscope and a zebrafish embryo on a custom-built
+SPIM system.<br></div><div><br></div><div><i>Requirements of an orientation
+technique</i><br></div><div>We think that a positioning method of
+biological samples needs to fulfill the following criteria to add a value to
+microscopy techniques. The technique needs to add a degree of freedom, which
+was not accessible in the microscope to be able to visualize the sample from
+the optimal side. Typically microscopes are equipped with a xyz stage to
+position the sample in the focal plane of the objective but there is no control
+of the sample orientation. The positioning technique must not interfere with
+the imaging of the sample. The method should be automatable allowing the
+integration in any automated microscopy routine. Ultimately, the technique has
+to ensure the sample integrity. While optical methods have successfully
+been used to position and to orient single cells for light microscopy&nbsp;<cite class="ltx_cite" data-bib-text="@inproceedings{Torres_Mapa_2012,
+	doi = {10.1117/12.922509},
+	url = {http://dx.doi.org/10.1117/12.922509},
+	year = 2012,
+	month = {jun},
+	publisher = {{SPIE}-Intl Soc Optical Eng},
+	author = {Maria Leilani Torres-Mapa and Maciej Antkowiak and Hana Cizmarova and David E.K. Ferrier and Kishan Dholakia and Frank Gunn-Moore},
+	editor = {Jürgen Popp and Wolfgang Drexler and Valery V. Tuchin and Dennis L. Matthews},
+	title = {A multimodal holographic system for optical manipulation and injection of developing embryos},
+	booktitle = {Biophotonics: Photonic Solutions for Better Health Care {III}}
+}" data-bib-key="Torres_Mapa_2012" contenteditable="false"><a href="https://www.authorea.com/users/100587/articles/121901/_show_article#Torres_Mapa_2012">Torres-Mapa 2012</a></cite> <cite class="ltx_cite" data-bib-text="@article{Kreysing_2014,
+	doi = {10.1038/ncomms6481},
+	url = {http://dx.doi.org/10.1038/ncomms6481},
+	year = 2014,
+	month = {nov},
+	publisher = {Nature Publishing Group},
+	volume = {5},
+	pages = {5481},
+	author = {Moritz Kreysing and Dino Ott and Michael J. Schmidberger and Oliver Otto and Mirjam Schürmann and Estela Mart{\'{\i}}n-Badosa and Graeme Whyte and Jochen Guck},
+	title = {Dynamic operation of optical fibres beyond the single-mode regime facilitates the orientation of biological cells},
+	journal = {Nature Communications}
+}" data-bib-key="Kreysing_2014" contenteditable="false"><a href="https://www.authorea.com/users/100587/articles/121901/_show_article#Kreysing_2014">Kreysing 2014</a></cite> <cite class="ltx_cite" data-bib-text="@article{Kreysing_2008,
+	doi = {10.1364/oe.16.016984},
+	url = {http://dx.doi.org/10.1364/oe.16.016984},
+	year = 2008,
+	month = {oct},
+	publisher = {The Optical Society},
+	volume = {16},
+	number = {21},
+	pages = {16984},
+	author = {Moritz K. Kreysing and Tobias Kie{\ss}ling and Anatol Fritsch and Christian Dietrich and Jochen R. Guck and Josef A. Käs},
+	title = {The optical cell rotator},
+	journal = {Opt. Express}
+}" data-bib-key="Kreysing_2008" contenteditable="false"><a href="https://www.authorea.com/users/100587/articles/121901/_show_article#Kreysing_2008">Kreysing 2008</a></cite>,
+forces are not high enough to position
+a millimeter-sized zebrafish embryo.<br></div><div><br></div><div><i>Introduce the idea and show how you go
+about implementing it</i><br></div><div>We tried whether we could use magnetic
+forces to orient a zebrafish embryo within its chorion. To apply a magnetic
+force on the embryo we injected magnetic beads into the yolk. We discovered that
+we could orient the injected embryo within its chorion by approaching a permanent
+magnet close to the embryo (<b>Supplementary
+video S1).</b> The injected beads were attracted by the permanent magnet but the
+zebrafish couldn’t translate towards the electromagnet since it was
+encapsulated in its chorion. We found that by moving the permanent magnet we
+can orient the zebrafish embryo contactless within its chorion.<br></div><div><br><i>Injection of magnetic beads</i><br></div><div><div><div><div>The super paramagnetic beads were
+injected with glass needles into the yolk of the zebrafish embryo to ensure the
+integrity of the zebrafish embryo. We
+performed the injections at 4 hpf and the injection needle was inserted from
+either the vegetal pole or the lateral side and beads were deposited close to
+the yolk membrane (<b>Figure 1b</b>). We
+found that performing the injections at extremely low pressure (5-10 psi) and
+long injection duration (100-150 ms) avoided the dispersion of beads. By
+applying a strong constant magnetic field after the injection of the beads with
+a permanent magnet the beads were attracted and clump. This aggregation of
+beads preserved the single beads from translating through the yolk and eased
+the rotation.<br></div><br></div><br></div><br></div>
