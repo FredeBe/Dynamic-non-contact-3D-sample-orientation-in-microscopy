@@ -12,7 +12,6 @@ Requirements_of_an_orientation_techniqueWe__.html
 Introduce_the_idea_and_show__.html
 Injection_of_magnetic_beadsThe_super__.html
 figures/Magnetic Manipulation paper - Figures-01/Magnetic Manipulation paper - Figures-01.png
-div_i_Find_the_right__1.html
 To_ensure_the_sample_integrity__.html
 div_i_Injection_of_beads__1.html
 Injected_embryos_were_monitored_for__.html
