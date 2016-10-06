@@ -25,7 +25,7 @@ Intermediate_anglesTo_study_the_sample__.html
 figures/Magnetic Manipulation paper - Figures-02/Magnetic Manipulation paper - Figures-02.png
 The_FUSION_is_still_missing__.html
 div_i_Limitations_of_light__1.html
-In_contrast_to_SPIM_common__.html
+Limitations_of_light_microscope_as__.html
 div_i_2_different_orientations__1.html
 We_used_two_electromagnets_to__.html
 figures/Magnetic Manipulation paper - Figures-03/Magnetic Manipulation paper - Figures-03.png
