@@ -1,7 +1,6 @@
 div_i_nbsp_i_br__.html
 Frederic_Berndt1_Gopi_Shah1_Benjamin__.html
 div_b_sup_2_sup__1.html
-div_b_sup_sup_b__1.html
 Abstract_unreferenced_abstract_3_sentences__.html
 Main_textNeed_to_image_sample__.html
 Define_explicitly_what_the_goal__.html
