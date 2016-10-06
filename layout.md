@@ -7,7 +7,6 @@ Abstract_unreferenced_abstract_3_sentences__.html
 Main_textNeed_to_image_sample__.html
 Define_explicitly_what_the_goal__.html
 Embedding_the_work_in_the__.html
-div_i_Our_technique_i__1.html
 Here_we_present_a_remote__.html
 Requirements_of_an_orientation_techniqueWe__.html
 Introduce_the_idea_and_show__.html
