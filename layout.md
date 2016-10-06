@@ -11,7 +11,6 @@ DiscussionIn_summary_we_have_shown__.html
 Materials_and_MethodsSPIM_setupSPIM_setup__.html
 div_nbsp_br_div__72.html
 div_nbsp_br_div__73.html
-h1_Funding_br_h1__1.html
 div_This_project_has_received__1.html
 div_nbsp_br_div__74.html
 h1_Supplementary_Information_br_h1__1.html
