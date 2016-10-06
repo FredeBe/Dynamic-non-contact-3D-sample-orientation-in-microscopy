@@ -7,7 +7,7 @@ Find_the_right_magnetic_beads__1.html
 figures/Magnetic Manipulation paper - Figures-02/Magnetic Manipulation paper - Figures-02.png
 The_FUSION_is_still_missing__.html
 figures/Magnetic Manipulation paper - Figures-03/Magnetic Manipulation paper - Figures-03.png
-h1_Discussion_br_h1__1.html
+DiscussionIn_summary_we_have_shown__.html
 div_In_summary_we_have__1.html
 There_are_several_applications_where__.html
 h1_Materials_and_Methods_br__1.html
