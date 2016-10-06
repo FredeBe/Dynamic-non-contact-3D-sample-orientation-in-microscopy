@@ -2,7 +2,6 @@ div_i_nbsp_i_br__.html
 Frederic_Berndt1_Gopi_Shah1_Benjamin__.html
 Abstract_unreferenced_abstract_3_sentences__.html
 Main_textNeed_to_image_sample__.html
-Define_explicitly_what_the_goal__.html
 Embedding_the_work_in_the__.html
 Here_we_present_a_remote__.html
 Requirements_of_an_orientation_techniqueWe__.html
