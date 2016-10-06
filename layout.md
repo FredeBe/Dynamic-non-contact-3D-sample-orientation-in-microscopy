@@ -4,7 +4,6 @@ Abstract_unreferenced_abstract_3_sentences__.html
 Main_textNeed_to_image_sample__.html
 figures/Magnetic Manipulation paper - Figures-01/Magnetic Manipulation paper - Figures-01.png
 Find_the_right_magnetic_beads__1.html
-Intermediate_anglesTo_study_the_sample__.html
 10_different_orientations_from_the__.html
 figures/Magnetic Manipulation paper - Figures-02/Magnetic Manipulation paper - Figures-02.png
 The_FUSION_is_still_missing__.html
