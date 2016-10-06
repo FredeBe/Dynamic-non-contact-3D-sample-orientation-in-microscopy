@@ -14,7 +14,6 @@ Injection_of_magnetic_beadsThe_super__.html
 figures/Magnetic Manipulation paper - Figures-01/Magnetic Manipulation paper - Figures-01.png
 Find_the_right_magnetic_beads__.html
 Injection_of_beads_does_not__.html
-div_i_Magnets_i_br__1.html
 The_external_magnetic_field_can__.html
 div_i_Why_do_we__1.html
 SPIM_has_become_the_technique__.html
