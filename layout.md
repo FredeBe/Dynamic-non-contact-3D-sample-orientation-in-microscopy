@@ -16,7 +16,6 @@ div_nbsp_br_div__74.html
 h1_Supplementary_Information_br_h1__1.html
 figures/Fig S01 - controls_v02/Fig S01 - controls_v02-01.png
 Protocol_1_Washing_and_injection__.html
-div_Take_10_l_of__1.html
 div_Step_2_Microinjection_br__1.html
 Injections_were_performed_using_a__.html
 div_Step_3_Aggregation_of__1.html
