@@ -13,7 +13,6 @@ Introduce_the_idea_and_show__.html
 Injection_of_magnetic_beadsThe_super__.html
 figures/Magnetic Manipulation paper - Figures-01/Magnetic Manipulation paper - Figures-01.png
 Find_the_right_magnetic_beads__.html
-div_i_Injection_of_beads__1.html
 Injected_embryos_were_monitored_for__.html
 div_i_Magnets_i_br__1.html
 The_external_magnetic_field_can__.html
