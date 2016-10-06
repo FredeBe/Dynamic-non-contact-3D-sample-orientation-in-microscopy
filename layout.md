@@ -4,7 +4,6 @@ Abstract_unreferenced_abstract_3_sentences__.html
 Main_textNeed_to_image_sample__.html
 figures/Magnetic Manipulation paper - Figures-01/Magnetic Manipulation paper - Figures-01.png
 Find_the_right_magnetic_beads__1.html
-MagnetsThe_external_magnetic_field_can__.html
 Why_do_we_need_more__.html
 Introduce_the_magnetic_manipulation_on__.html
 Performance_of_the_systemWe_measured__.html
