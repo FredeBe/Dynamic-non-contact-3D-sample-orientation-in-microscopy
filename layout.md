@@ -2,7 +2,6 @@ Frederic_Berndt1_Gopi_Shah1_Benjamin__.html
 Abstract_unreferenced_abstract_3_sentences__.html
 Main_textNeed_to_image_sample__.html
 Find_the_right_magnetic_beads__1.html
-The_FUSION_is_still_missing__.html
 DiscussionIn_summary_we_have_shown__.html
 Materials_and_MethodsSPIM_setupSPIM_setup__.html
 figures/Magnetic Manipulation paper - Figures-01/Magnetic Manipulation paper - Figures-01.png
